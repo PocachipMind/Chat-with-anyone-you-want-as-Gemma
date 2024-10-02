@@ -48,8 +48,8 @@ Make Bot Profile 탭을 누르면 위와 같이 봇 프로필을 제작할 수 �
 
 ## 제작 이슈
 
-![image](https://github.com/user-attachments/assets/d6f70f9f-ae9f-42b9-a77a-cec0de3916ef)
-
 Gemma 2 의 경우 System role이 존재하지 않았는데, 이를 적용하기 위해 프롬포트 자체에 System role 을 적용.
+
+![image](https://github.com/user-attachments/assets/d6f70f9f-ae9f-42b9-a77a-cec0de3916ef)
 
 참고 : https://huggingface.co/google/gemma-2-9b-it/discussions/15
