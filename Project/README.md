@@ -27,6 +27,11 @@ $ conda env create -f GemmaSprint_env.yaml
 ```
 $ conda activate GemmaSprint
 ```
+### > 혹여나 명령어가 어렵다면 
+
+![image](https://github.com/user-attachments/assets/3beab979-abcb-4881-abbb-a98a6fe29dc8)
+
+yaml 파일을 다운받고 Anaconda Navigator를 통해 환경을 설정해도 좋습니다.
 ## 실행 환경 : Visual Studio (VS) Code
 
 ### 1. 로컬 환경 (OS)에 맞는VS Code 실행 파일 다운
