@@ -1,6 +1,4 @@
-# Project 실행을 위한 파일을 모아둔 폴더입니다.
-
-# 환경 설정 방법
+### Project 실행을 위한 파일을 모아둔 폴더입니다.
 
 ## 실행 환경 : Anaconda Environment
 
