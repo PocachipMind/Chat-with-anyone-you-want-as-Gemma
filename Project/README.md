@@ -25,7 +25,7 @@ $ conda env create -f GemmaSprint_env.yaml
 ```
 - 환경 설치가 완료되면 하기와 같은 Command를 사용하여 가상환경 활성화 진행
 ```
-$ conda activate nvidia_openCV_pj_env
+$ conda activate GemmaSprint
 ```
 ## 실행 환경 : Visual Studio (VS) Code
 
@@ -43,11 +43,11 @@ $ conda activate nvidia_openCV_pj_env
 
 ### 4. 실습에서 사용할 환경 선택
 
-예시 이미지의 경우 이름이 조금 다름. 우리의 경우 nvidia_openCV_pj_env 로 나와야함.
+예시 이미지의 경우 이름이 조금 다름. 우리의 경우 GemmaSprint 로 나와야함.
 
 ![image](https://github.com/user-attachments/assets/be946505-b5ab-4eb4-ae7f-0309a441d6a1)
 
-### 5. 우측 하단에 3.10.14('nvidia_openCV_pj_env': conda)로 표기 되어있는지 확인
+### 5. 우측 하단에 3.10.14('GemmaSprint': conda)로 표기 되어있는지 확인
 
 ## 실행 방법
 
