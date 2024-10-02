@@ -61,4 +61,5 @@ $ git clone https://github.com/PocachipMind/Chat-with-anyone-you-want-as-Gemma.g
 
 해당 폴더 내의 ```gui_gemma_1차탭 완성.py```을 실행합니다. 
 
-![image](https://github.com/user-attachments/assets/689d01a8-ddb9-4afe-8be5-ac130650f203)
+![image](https://github.com/user-attachments/assets/a5835566-5728-49bf-b337-c876b2355dc0)
+
