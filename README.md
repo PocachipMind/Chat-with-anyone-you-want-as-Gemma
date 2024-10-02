@@ -23,6 +23,8 @@ https://github.com/user-attachments/assets/327206e2-bd84-477c-8564-b7d4b1b92dc1
 
 ## 사용법
 
+자세한 환경 설정 등은 Project 폴더에 있는 ```README.md``` 를 참고하세요.
+
 ![image](https://github.com/user-attachments/assets/f0574948-13aa-4dda-a500-6409e87165fc)
 
 Bot Name : 대화 할 상대의 이름을 입력하세요.
