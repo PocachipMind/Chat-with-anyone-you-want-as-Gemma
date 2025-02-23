@@ -16,3 +16,8 @@ ex )
 
 사용 저서 : https://www.gutenberg.org/ebooks/10731
 
+![image](https://github.com/user-attachments/assets/6919c10d-9dae-4e44-8d12-89e538d07536)
+
+## 학습
+
+양자화를 하고 LoRA의 기법을 사용하여 학습을 진행.
