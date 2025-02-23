@@ -20,44 +20,33 @@ Google Machine Learning Bootcamp를 진행하며 제작한 Gemma 활용 프로�
 
  ## 시연 영상
 
-1. Example 사용
+1. 직접 입력 대화
 
 https://github.com/user-attachments/assets/38e8a3e5-ceed-47dc-b44e-5adeedaf180b
 
-2. 직접 입력
+2. 파인 튜닝된 모델 대화
 
-https://github.com/user-attachments/assets/327206e2-bd84-477c-8564-b7d4b1b92dc1
-
-## 사용법
-
-자세한 환경 설정 등은 Project 폴더에 있는 ```README.md``` 를 참고하세요.
-
-![image](https://github.com/user-attachments/assets/f0574948-13aa-4dda-a500-6409e87165fc)
-
-Bot Name : 대화 할 상대의 이름을 입력하세요.
-
-Bot Gender : 대화 할 봇의 성별을 고르세요.
-
-Bot Profession : 봇의 직업을 적으세요.
-
-Bot Personality : 봇의 성격을 형용사 형식으로 적으세요.
+https://github.com/user-attachments/assets/858678eb-041e-4988-a088-3cad6e10c3fc
 
 
-![image](https://github.com/user-attachments/assets/e17e5874-5b85-41ca-a8ae-49a82b067780)
+## 핵심 로직
 
-Make Bot Profile 탭을 누르면 위와 같이 봇 프로필을 제작할 수 있습니다. 
+### 1. 프롬포팅 아바타
+![image](https://github.com/user-attachments/assets/c89cd838-774c-45a1-9545-3aa84986d9d7)
+![image](https://github.com/user-attachments/assets/5e1b5aab-44fc-4d11-8fca-1dc1f3f0c2b4)
+위 이미지와 같이 system을 통해 페르소나를 주고 대화에 임하도록 구현
 
-봇의 프로필 사진, 배경 사진, 상태 메세지를 설정할 수 있으며 이는 필수는 아닙니다.
+### 2. 파인 튜닝 아바타
 
-만약 설정하지 않는다면 기본 이미지로 대체됩니다.
+![image](https://github.com/user-attachments/assets/aa17103c-dfb0-4f41-b596-1a203ddb7cfa)
+모델을 학습 후 허깅페이스에 올려서 사용.
 
-모든 설정을 한 이후 Make_Custom_Bot 버튼을 누르면 해당 봇과 대화가 가능합니다.
+학습 코드 및 데이터는 Train폴더 안에 기재되어있음.
 
-![image](https://github.com/user-attachments/assets/4c1ee3fb-8e20-45bd-b285-330655bae8a7)
 
 ## 제작 이슈
 
-Gemma 2 의 경우 System role이 존재하지 않았는데, 이를 적용하기 위해 프롬포트 자체에 System role 을 적용.
+Gemma 2 의 경우 System role이 존재하지 않았는데, 이를 적용하기 위해 프롬포트 자체에 System role 을 적용. ( chat mod로는 되지 않음 )
 
 ![image](https://github.com/user-attachments/assets/d6f70f9f-ae9f-42b9-a77a-cec0de3916ef)
 
