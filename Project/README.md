@@ -69,4 +69,4 @@ $ git clone https://github.com/PocachipMind/Chat-with-anyone-you-want-as-Gemma.g
 ### 실행하기전 주의 ! ) 해당 프로젝트는 Gemma 모델을 2개 로드하므로, 컴퓨터에 무리가 갈 수 있습니다.
 ### 만약 실행에 어려움이 있다면 실험하고싶은 탭의 코드를 실행해주세요. ( 모델 로드 1개씩 하는 코드 )
 
-
+![image](https://github.com/user-attachments/assets/2279b8dd-2b4e-4a82-ad72-4daaa41bf3ce)
