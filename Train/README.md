@@ -1,6 +1,6 @@
-### Project 실행을 위한 파일을 모아둔 폴더입니다.
+### 모델 Train 관련
 
-## 실행 환경 : Anaconda Environment
+## 실행 환경 : Google Colab
 
 저는 ananconda 환경을 활용했습니다.
 
