@@ -10,10 +10,9 @@ Google Machine Learning Bootcamp를 진행하며 제작한 Gemma 활용 프로�
 ![image](https://github.com/user-attachments/assets/907f4c10-7f5c-4802-841a-9bfb0d3080fb)
 
 
-![image](https://github.com/user-attachments/assets/b1073421-084f-418e-b7b4-88341f05009a)
+![image](https://github.com/user-attachments/assets/8c4ac68a-f2ed-4ff3-bfa5-d9c7808b5757)
 
 
-![image](https://github.com/user-attachments/assets/2f2afdeb-2118-46ad-ba12-029244d3999c)
 
  ## 시연 영상
 
