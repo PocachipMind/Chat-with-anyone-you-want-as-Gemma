@@ -21,3 +21,12 @@ ex )
 ## 학습
 
 양자화를 하고 LoRA의 기법을 사용하여 학습을 진행.
+
+![image](https://github.com/user-attachments/assets/570f75ab-f05e-4a74-a65a-403c517471ef)
+
+데이터의 양이 워낙 작아서인지 학습 에포크를 많이 늘리더라도 눈에 띄는 큰 변화가 보이지 않는다고 판단되었음.
+
+![image](https://github.com/user-attachments/assets/435dc954-a78f-48f4-aeb2-6c89f3426388)
+
+그리고 학습을 더 늘릴 경우 좀 더 길게 응답하는 느낌을 받았는데, 짧게 대답하는 모델이 채팅성향과 좀 더 부합하다고 판단했기에 110회 정도의 학습 모델을 채택.
+
