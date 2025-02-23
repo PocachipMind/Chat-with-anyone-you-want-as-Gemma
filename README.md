@@ -34,11 +34,13 @@ https://github.com/user-attachments/assets/858678eb-041e-4988-a088-3cad6e10c3fc
 ### 1. 프롬포팅 아바타
 ![image](https://github.com/user-attachments/assets/c89cd838-774c-45a1-9545-3aa84986d9d7)
 ![image](https://github.com/user-attachments/assets/5e1b5aab-44fc-4d11-8fca-1dc1f3f0c2b4)
+
 위 이미지와 같이 system을 통해 페르소나를 주고 대화에 임하도록 구현
 
 ### 2. 파인 튜닝 아바타
 
 ![image](https://github.com/user-attachments/assets/aa17103c-dfb0-4f41-b596-1a203ddb7cfa)
+
 모델을 학습 후 허깅페이스에 올려서 사용.
 
 학습 코드 및 데이터는 Train폴더 안에 기재되어있음.
