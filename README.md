@@ -1,6 +1,10 @@
 # Chat-with-anyone-you-want-as-Gemma
 Google Machine Learning Bootcamp를 진행하며 제작한 Gemma 활용 프로젝트.
 
+### Project 폴더 : 실행하기 위한 파일들 수록
+### Train 폴더 : 파인튜닝하기 위한 코드, 자료 수록
+
+
 ## 시연 이미지
 
 ![image](https://github.com/user-attachments/assets/907f4c10-7f5c-4802-841a-9bfb0d3080fb)
