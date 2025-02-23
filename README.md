@@ -22,7 +22,7 @@ Google Machine Learning Bootcamp를 진행하며 제작한 Gemma 활용 프로�
 
 1. 직접 입력 대화
 
-https://github.com/user-attachments/assets/38e8a3e5-ceed-47dc-b44e-5adeedaf180b
+https://github.com/user-attachments/assets/327206e2-bd84-477c-8564-b7d4b1b92dc1
 
 2. 파인 튜닝된 모델 대화
 
