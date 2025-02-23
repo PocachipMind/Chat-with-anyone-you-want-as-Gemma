@@ -4,6 +4,8 @@
 
 코랩환경을 통해 T4 GPU로 학습을 진행했습니다.
 
+pip install 버전은 pip freeze > requirements.txt 명령어를 통해 requirements.txt에 담겨있습니다.
+
 ## 학습 데이터 수집 : GPT, 쇼펜하우어 저서 사용
 
 Project Gutenberg 사이트를 통해 해외의 저작권 만료된 작품을 무료로 이용할 수 있습니다.
