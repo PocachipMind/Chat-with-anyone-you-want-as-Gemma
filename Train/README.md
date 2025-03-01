@@ -6,6 +6,18 @@
 
 pip install 버전은 pip freeze > requirements.txt 명령어를 통해 requirements.txt에 담겨있습니다.
 
+## 학습
+
+양자화 : BitsAndBytesConfig를 사용하여 4bit 양자화(NF4) 적용
+
+LoRA : peft.LoraConfig, get_peft_model()을 사용하여 LoRA 설정을 적용
+
+prepare_model_for_kbit_training(model)을 사용하여 양자화된 모델에서 미세 조정 가능하도록 설정
+
+bnb_4bit_use_double_quant=True, bnb_4bit_quant_type="nf4" 설정
+
+즉, QLoRA 적용 및 학습
+
 ## 학습 데이터 수집 : GPT, 쇼펜하우어 저서 사용
 
 Project Gutenberg 사이트를 통해 해외의 저작권 만료된 작품을 무료로 이용할 수 있습니다.
