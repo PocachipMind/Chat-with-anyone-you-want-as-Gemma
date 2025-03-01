@@ -16,7 +16,7 @@ prepare_model_for_kbit_training(model)을 사용하여 양자화된 모델에서
 
 bnb_4bit_use_double_quant=True, bnb_4bit_quant_type="nf4" 설정
 
-즉, QLoRA 적용 및 학습
+**즉, QLoRA 적용 및 학습**
 
 ## 학습 데이터 수집 : GPT, 쇼펜하우어 저서 사용
 
