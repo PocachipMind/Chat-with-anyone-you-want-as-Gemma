@@ -18,7 +18,7 @@ bnb_4bit_use_double_quant=True, bnb_4bit_quant_type="nf4" 설정
 
 **즉, QLoRA 적용 및 학습**
 
-## 학습 데이터 수집 : GPT, 쇼펜하우어 저서 사용
+## 학습 데이터 수집 : GPT활용 데이터 증류, 쇼펜하우어 저서 사용
 
 Project Gutenberg 사이트를 통해 해외의 저작권 만료된 작품을 무료로 이용할 수 있습니다.
 
